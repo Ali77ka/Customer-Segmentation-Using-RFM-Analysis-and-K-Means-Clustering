@@ -73,19 +73,6 @@ To better understand and validate clusters, several visualizations were created:
 | **🔥 Heatmap** | Displays average RFM values per cluster for quick comparison |
 
 ---
-
-## 📊 Example Output
-
-### Cluster Summary (sample)
-| Cluster | Customers | % Customers | Recency_mean | Frequency_mean | Monetary_mean | Monetary_sum |
-|:--|--:|--:|--:|--:|--:|--:|
-| 0 | 1100 | 36.2 | 78 | 4 | 320 | 352,000 |
-| 1 | 540 | 17.8 | 202 | 2 | 210 | 113,000 |
-| 2 | 230 | 7.6 | 32 | 10 | 1,250 | 287,000 |
-| 3 | 1,170 | 38.4 | 54 | 6 | 480 | 562,000 |
-
-*(Numbers are for illustration only.)*
-
 ---
 
 ## 🚀 Summary
